@@ -15,10 +15,10 @@ const Hero = () => {
         type="text"
         value={link}
         onChange={handleLinkChange}
-        placeholder="Enter your link here"
+        placeholder="Enter your text here"
       />
       <div className="qr">
-        <QRCode value={link} />
+        <QRCode value={link} /> 
       </div>
     </div>
   );
