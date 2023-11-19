@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    border: 0;
+    padding: 0;
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    padding: 12px;
+}
+
+.qr{
+    border: 1px solid black;
+    padding: 12px;
+}
+
+input{
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+}
