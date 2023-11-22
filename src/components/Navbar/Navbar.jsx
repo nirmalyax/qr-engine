@@ -8,7 +8,7 @@ export default function Navbar() {
     <div className="nav-bar">
       <div className="heading">QR - Engine</div>
       <p>Create your own QR 
-      designed with ❤️ by&nbsp;<a target="_blank" href="https://nirmalyax.dev" >nirmalyax</a></p>
+      designed with ❤️ by&nbsp;<a target="_blank" href="https://nirmalyax.dev" >nirmalyax </a></p>
 
       <div className="icon">
         <FaGithub/>
