@@ -20,6 +20,9 @@ const Hero = () => {
       <div className="qr">
         <QRCode value={link} /> 
       </div>
+      <div>
+        
+      </div>
     </div>
   );
 };
